@@ -1,0 +1,10 @@
+{
+  "name": "QueueLess — lunch, without the line",
+  "short_name": "QueueLess",
+  "description": "Find the shortest campus food line and plan a better lunch break.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f3",
+  "theme_color": "#456b49",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
